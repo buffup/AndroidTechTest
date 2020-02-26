@@ -1,0 +1,182 @@
+{
+  "streams" : {
+    "result" : [
+      {
+        "id" : 12,
+        "title" : "VOD - Last 15 minutes of stream",
+        "description" : "Last 15 minutes of the U17 World Cup final (Live)",
+        "url" : "https://hdvod1-vh.akamaihd.net/i/fcs.groovy/clients/sportsbuff/02_,192,1000,4000,.mp4.csmil/master.m3u8",
+        "start_at" : "2020-02-20T05:00:00Z",
+        "end_at" : "2020-03-01T14:09:00Z",
+        "image" : {
+          "0" : {
+            "id" : "public/805d953a36de083e5c5590ff811c9f42/sb-805d953a36de083e5c5590ff811c9f42@1x.png",
+            "key" : "805d953a36de083e5c5590ff811c9f42",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/805d953a36de083e5c5590ff811c9f42/sb-805d953a36de083e5c5590ff811c9f42@1x.png"
+          },
+          "1" : {
+            "id" : "public/805d953a36de083e5c5590ff811c9f42/sb-805d953a36de083e5c5590ff811c9f42@2x.png",
+            "key" : "805d953a36de083e5c5590ff811c9f42",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/805d953a36de083e5c5590ff811c9f42/sb-805d953a36de083e5c5590ff811c9f42@2x.png"
+          },
+          "2" : {
+            "id" : "public/805d953a36de083e5c5590ff811c9f42/sb-805d953a36de083e5c5590ff811c9f42@3x.png",
+            "key" : "805d953a36de083e5c5590ff811c9f42",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/805d953a36de083e5c5590ff811c9f42/sb-805d953a36de083e5c5590ff811c9f42@3x.png"
+          }
+        },
+        "logo" : {
+          "0" : {
+            "id" : "public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@1x.png",
+            "key" : "7a3c420cabe4c8d255df9918b1ebd29c",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@1x.png"
+          },
+          "1" : {
+            "id" : "public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@2x.png",
+            "key" : "7a3c420cabe4c8d255df9918b1ebd29c",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@2x.png"
+          },
+          "2" : {
+            "id" : "public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@3x.png",
+            "key" : "7a3c420cabe4c8d255df9918b1ebd29c",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@3x.png"
+          }
+        }
+      },
+      {
+        "id" : 11,
+        "title" : "VOD - First 15 minutes of FIFA stream",
+        "description" : "First 15 minutes of the U17 World Cup Final (Live)",
+        "url" : "https://hdvod1-vh.akamaihd.net/i/fcs.groovy/clients/sportsbuff/01_,192,1000,4000,.mp4.csmil/master.m3u8",
+        "start_at" : "2020-02-20T06:00:00Z",
+        "end_at" : "2020-03-01T15:09:00Z",
+        "image" : {
+          "0" : {
+            "id" : "public/98e86122d2d43b87691ad02856eeebac/sb-98e86122d2d43b87691ad02856eeebac@1x.png",
+            "key" : "98e86122d2d43b87691ad02856eeebac",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/98e86122d2d43b87691ad02856eeebac/sb-98e86122d2d43b87691ad02856eeebac@1x.png"
+          },
+          "1" : {
+            "id" : "public/98e86122d2d43b87691ad02856eeebac/sb-98e86122d2d43b87691ad02856eeebac@2x.png",
+            "key" : "98e86122d2d43b87691ad02856eeebac",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/98e86122d2d43b87691ad02856eeebac/sb-98e86122d2d43b87691ad02856eeebac@2x.png"
+          },
+          "2" : {
+            "id" : "public/98e86122d2d43b87691ad02856eeebac/sb-98e86122d2d43b87691ad02856eeebac@3x.png",
+            "key" : "98e86122d2d43b87691ad02856eeebac",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/98e86122d2d43b87691ad02856eeebac/sb-98e86122d2d43b87691ad02856eeebac@3x.png"
+          }
+        },
+        "logo" : {
+          "0" : {
+            "id" : "public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@1x.png",
+            "key" : "7a3c420cabe4c8d255df9918b1ebd29c",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@1x.png"
+          },
+          "1" : {
+            "id" : "public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@2x.png",
+            "key" : "7a3c420cabe4c8d255df9918b1ebd29c",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@2x.png"
+          },
+          "2" : {
+            "id" : "public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@3x.png",
+            "key" : "7a3c420cabe4c8d255df9918b1ebd29c",
+            "url" : "https://buffup-s3-clients-s-31d41d8cd98f00b204e9800998ecf8427e.s3.eu-west-2.amazonaws.com/public/7a3c420cabe4c8d255df9918b1ebd29c/sb-7a3c420cabe4c8d255df9918b1ebd29c@3x.png"
+          }
+        }
+      }
+    ]
+  },
+  "buffs" : [
+    {
+      "id" : 155,
+      "client_id" : 1,
+      "stream_id" : 1,
+      "time_to_show" : 10,
+      "priority" : 3,
+      "created_at" : "2020-01-31T22:19:43.180391Z",
+      "author" : {
+        "first_name" : "Pedro",
+        "last_name" : "Luz"
+      },
+      "question" : {
+        "id" : 155,
+        "title" : "Ball Circle Personal Loan Account impactful",
+        "category" : 1
+      },
+      "answers" : [
+        {
+          "id" : 387,
+          "buff_id" : 0,
+          "title" : "324324"
+        },
+        {
+          "id" : 388,
+          "buff_id" : 0,
+          "title" : "wqewqewq"
+        }
+      ],
+      "language" : "en"
+    },
+    {
+      "id" : 158,
+      "client_id" : 1,
+      "stream_id" : 1,
+      "time_to_show" : 13,
+      "priority" : 3,
+      "created_at" : "2020-02-01T18:40:19.048027Z",
+      "author" : {
+        "first_name" : "Pedro",
+        "last_name" : "Luz"
+      },
+      "question" : {
+        "id" : 158,
+        "title" : "Licensed hack Codes specifically reserved for testing purposes invoice",
+        "category" : 1
+      },
+      "answers" : [
+        {
+          "id" : 393,
+          "buff_id" : 0,
+          "title" : "Answer1"
+        },
+        {
+          "id" : 394,
+          "buff_id" : 0,
+          "title" : "answer1"
+        }
+      ],
+      "language" : "en"
+    },
+    {
+      "id" : 159,
+      "client_id" : 1,
+      "stream_id" : 1,
+      "time_to_show" : 15,
+      "priority" : 3,
+      "created_at" : "2020-02-05T16:20:16.359083Z",
+      "author" : {
+        "first_name" : "Pedro",
+        "last_name" : "Luz"
+      },
+      "question" : {
+        "id" : 159,
+        "title" : "SMS secured line visionary Tasty",
+        "category" : 3
+      },
+      "answers" : [
+        {
+          "id" : 395,
+          "buff_id" : 0,
+          "title" : "test"
+        },
+        {
+          "id" : 396,
+          "buff_id" : 0,
+          "title" : "test2"
+        }
+      ],
+      "language" : "en"
+    }
+  ]
+}
