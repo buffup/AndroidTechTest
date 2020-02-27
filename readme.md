@@ -58,6 +58,10 @@ The UI has 3 sections:
 
 
 
+### A sample video of the Buffs showing on the current iOS version can be seen here:
+
+<video src="Buff.mov"></video>
+
 ## What we are looking for:
 
 - An android application written in Kotlin and an accompanying SDK writen in Kotlin 
