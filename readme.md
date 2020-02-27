@@ -60,7 +60,7 @@ The UI has 3 sections:
 
 ### A sample video of the Buffs showing on the current iOS version can be seen here:
 
-<video src="Buff.mov"></video>
+https://github.com/buffup/AndroidTechTest/blob/master/Buff.mov?raw=true
 
 ## What we are looking for:
 
