@@ -16,7 +16,7 @@ Using the Rest API download the list of available streams and create a UI that l
 
 
 
-Link to UI Mockup file (with downloadble assets): https://xd.adobe.com/view/402757c4-9f8a-4d87-79d0-9f69e5084889-3616/screen/d292c76d-948c-4b3a-b29b-7434e8650ab5/Stream-List-1-
+Link to UI Mockup file (with downloadble assets): https://xd.adobe.com/view/763a1597-da0c-4b42-6fb9-73d5666aef52-000b/
 
 When a user taps on an item, you should display the video player and play the video stream
 
@@ -56,7 +56,9 @@ The UI has 3 sections:
 
 **If the user selects an answer, the timer should stop and you should hide the Buff after 2 seconds**
 
+***As before, the UI for this screen with the downloadable assets can be found here:***
 
+https://xd.adobe.com/view/763a1597-da0c-4b42-6fb9-73d5666aef52-000b/
 
 ### A sample video of the Buffs showing on the current iOS version can be seen here:
 
