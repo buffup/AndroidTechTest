@@ -10,15 +10,13 @@ When you tap on the stream you should show a video player that plays the stream 
 
 ## Part A: Android Application
 
-Using the Rest API download the list of available streams and create a UI that looks like this:
+Create a Host Android Application that has a single activity playing a full screen video with the source:
 
-![Streams](Streams.png)
+https://buffup-public.s3.eu-west-2.amazonaws.com/video/toronto+nba+cut+3.mp4
+
+That activity should utilize the custom View provided by the Android Library you will be creating a Part B to display content over it
 
 
-
-Link to UI Mockup file (with downloadble assets): https://xd.adobe.com/view/763a1597-da0c-4b42-6fb9-73d5666aef52-000b/
-
-When a user taps on an item, you should display the video player and play the video stream
 
 ## Part B: Android SDK
 
@@ -32,7 +30,6 @@ The SDK should expose a view that the host Application is adding over the video 
 
 The SDK should have the following features
 
-- Expose a function to retrieve the list of available Streams to the host App
 - Expose a view that the host App will add in the UI over the video stream to display the Buffs
 - Handle all the business and UI logic to display the Buffs over the video in the view
 
@@ -56,7 +53,7 @@ The UI has 3 sections:
 
 **If the user selects an answer, the timer should stop and you should hide the Buff after 2 seconds**
 
-***As before, the UI for this screen with the downloadable assets can be found here:***
+***The UI for this screen with the downloadable assets can be found here:***
 
 https://xd.adobe.com/view/763a1597-da0c-4b42-6fb9-73d5666aef52-000b/
 
@@ -87,14 +84,6 @@ This a brief summary of the api endpoints you will need in order to create the A
 #### Base URL
 
 The base URL for the staging environment is `https://buffup.proxy.beeceptor.com`. 
-
-#### List of Streams
-
-Provides a list of available Streams
-
-```
-GET /streams
-```
 
 #### Get  Buff
 
@@ -155,4 +144,4 @@ If the user manually closes the Buff by tapping on the top right `x` close butto
 
 
 
-Good luck!
+**Good luck!**
