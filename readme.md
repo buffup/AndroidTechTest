@@ -83,7 +83,7 @@ This a brief summary of the api endpoints you will need in order to create the A
 
 #### Base URL
 
-The base URL for the staging environment is `https://buffup.proxy.beeceptor.com`. 
+The base URL for the staging environment is `http://demo2373134.mockable.io/`. 
 
 #### Get  Buff
 
