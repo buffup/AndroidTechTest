@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".FullscreenActivity">
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+    <com.buffup.sdk.ui.BuffView
+        android:id="@+id/buff_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <VideoView
+        android:id="@+id/video"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    </com.buffup.sdk.ui.BuffView>
+
+</FrameLayout>

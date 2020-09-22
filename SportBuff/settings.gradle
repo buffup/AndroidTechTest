@@ -1,0 +1,3 @@
+rootProject.name='Buff App'
+include ':app'
+include ':buffsdk'
