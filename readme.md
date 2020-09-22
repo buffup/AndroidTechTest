@@ -8,23 +8,21 @@ When you tap on the stream you should show a video player that plays the stream 
 
 
 
-## Part A: Android Application
+## Android Application
 
-Create a Host Android Application that has a single activity playing a full screen video with the source:
+We have provided you with a sample skeleton Android Project, which includes an Android Application that consumes the SDK that you will create as part of your Tech Task and plays a video file.
 
-https://buffup-public.s3.eu-west-2.amazonaws.com/video/toronto+nba+cut+3.mp4
-
-That activity should utilize the custom View provided by the Android Library you will be creating a Part B to display content over it
+The Buffs that your SDK create should display over this Video File.
 
 
 
-## Part B: Android SDK
+## Android SDK
 
-We now want an SDK that the Android App Uses to display content (Buff's as we call them) over the existing video.
+We want an SDK that the Provided Android App Uses to display content (Buff's as we call them) over the existing video.
 
-The host Android Application should use the SDK to simply show content over the existing video.
+The SDK should expose a view that the host Application is adding over the video frame that displays the Buff content there.
 
-The SDK should expose a view that the host Application is adding over the video frame that displays the Buff content there
+
 
 ### SDK Requirements
 
@@ -32,6 +30,8 @@ The SDK should have the following features
 
 - Expose a view that the host App will add in the UI over the video stream to display the Buffs
 - Handle all the business and UI logic to display the Buffs over the video in the view
+
+
 
 ### Buff UI
 
@@ -47,17 +47,22 @@ The UI has 3 sections:
 - Middle section where we see the question and the countdown timer
 - Bottom Section where we see the answers
 
-**The countdown timer should work and at the end if the user hasn't yet voted, the question should automatically hide**
+- [ ] The countdown timer should work and at the end if the user hasn't yet voted, the question should automatically hide
 
-**The number of answers can vary from 2 to 5, your UI should automatically adapt to the number of answers that the API delivers**
+- [ ] The number of answers can vary from 2 to 5, your UI should automatically adapt to the number of answers that the API delivers
 
-**If the user selects an answer, the timer should stop and you should hide the Buff after 2 seconds**
+- [ ] If the user selects an answer, the timer should stop and you should hide the Buff after 2 seconds. You should also highlight the selected answer.
+
 
 ***The UI for this screen with the downloadable assets can be found here:***
 
 https://xd.adobe.com/view/763a1597-da0c-4b42-6fb9-73d5666aef52-000b/
 
-### A sample video of the Buffs showing on the current iOS version can be seen here:
+#### The Sample Skeleton App contains XML files for the parts needed to create the above UI as well as assets.
+
+It's up to you to decide to use those XML files, modify them or create your owns as part of the UI layout, however they are provided so you can spend time on the business logic and not on the UI it self.
+
+##### A sample video of the Buffs showing on the current iOS version can be seen here:
 
 https://github.com/buffup/AndroidTechTest/blob/master/Buff.mov?raw=true
 
